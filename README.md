@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @gbarcenasjr
 - 👀  I’m interested in iOS and macOS software development
-- 🌱  I’m currently learning iOS & Swift
+- 🌱  I’m currently learning Swift and C++
 - 📫  Feel free to reach me at gbarcenasjr@gmail.com
 
 <!---
