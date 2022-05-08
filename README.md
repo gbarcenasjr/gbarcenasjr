@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @gbarcenasjr
-- 👀  I’m interested in iOS and macOS software development
-- 🌱  I’m currently learning Swift and C++
+- 👀  I’m interested in software engineering
+- 🌱  Graduating in Spring Semester 2023
 - 📫  Feel free to reach me at gbarcenasjr@gmail.com
 - 💻  For more info about my experience and qualifications, visit my LinkedIn Page: https://www.linkedin.com/in/gbarcenasjr/
 <!---
