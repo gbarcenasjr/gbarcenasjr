@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @gbarcenasjr
-- 👀  I’m interested in software engineering
-- 🌱  Graduating in Spring Semester 2023
+- 👀  I’m interested in software engineering, AI/ML, and Data Science
+- 🎓  Graduated Spring Semester 2023
 - 📫  Feel free to reach me at gbarcenasjr@gmail.com
 - 💻  For more info about my experience and qualifications,
   - Website: https://gbarcenasjr.github.io/
